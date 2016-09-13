@@ -1,0 +1,23 @@
+{
+  "name": "hubot-gollum-meme",
+  "version": "1.0.0",
+  "description": "A hubot script for showing a 'Gollum' image when someone says certain words or phrases",
+  "main": "gollummeme.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coreone/hubot-gollum-meme.git"
+  },
+  "keywords": [
+    "hubot",
+    "gollum",
+    "meme"
+  ],
+  "author": "Andrew Teixeira <https://github.com/coreone>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreone/hubot-gollum-meme/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  }
+}
